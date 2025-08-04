@@ -49,4 +49,18 @@ button {
 
 button:hover {
     background-color: #ff80ab;
+} .semestre-bloque {
+  margin: 40px 0;
+}
+
+.semestre-bloque h2 {
+  color: #c2185b;
+  margin-bottom: 10px;
+}
+
+.fila {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
 }
